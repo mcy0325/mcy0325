@@ -23,16 +23,28 @@
 <br><br>
 
 ## OBJECTIVE
-Your Objective
+Reseach on 
 
 ## WORK EXPERIENCE
-Your Work Experience
+UNIST/Web Security Lab (01/2024 ~ 02/2024)
 
 ## EDUCATION
-Your Education
+Bachelor Degree of Software engineering (03/2022 ~ Present) (Korea Aerospace University)
 
 ## ADDITIONAL SKILLS
-Your Skills
+<span>
+    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
+</span>
+   
+<span>
+    <img src="https://img.shields.io/badge/ HTML-yellow?style=plastic&logo=HTML5&logoColor=white"/>
+</span>
+<span>
+    <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
+</span>
 
 ## Publications
 Your Publications
