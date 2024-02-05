@@ -4,7 +4,7 @@
 <br><br>
     
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFD700&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Chae+Yeong;Your+Tagline" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFD700&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Chae+Yeong;Research+on" alt="Typing SVG" /></a>
 <br>
 <div align="center">  
 <br>
@@ -17,9 +17,16 @@
     <img src="https://img.shields.io/badge/GitHub Blog-FFD700?style=plastic&logo=GitHub Sponsors&logoColor=black"/>
   </a>
 </span>
-<!-- Add your other details as per your requirement -->
+<span>
+  <a href="mailto:mcy325@kau.kr">
+    <img src="https://img.shields.io/badge/Email-black?style=plastic&logo=Gmail&logoColor=white"/>
+  </a>
 </span>
-
+<span>
+  <a href="https://www.instagram.com/activityeong325/">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
+  </a>
+</span>
 <br><br>
 
 ## OBJECTIVE
