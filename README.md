@@ -54,7 +54,6 @@ Bachelor Degree of Software engineering (03/2022 ~ Present) (Korea Aerospace Uni
 </span>
 
 ## Publications
-Your Publications
 
 </div>
 </div>
