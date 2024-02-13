@@ -55,9 +55,6 @@ Bachelor Degree of Software engineering (03/2022 ~ Present) (Korea Aerospace Uni
 
 ## Publications
 
-## Baekjoon
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0325)](https://solved.ac/imcy0325)
-
 </div>
 </div>
 
