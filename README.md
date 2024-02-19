@@ -60,6 +60,9 @@ Bachelor Degree of Software engineering (03/2022 ~ Present) (Korea Aerospace Uni
 <span>
     <img src="https://img.shields.io/badge/ Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white"/>
 </span>
+<span>
+    <img src="https://img.shields.io/badge/ Android Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white"/>
+</span>
 
 ## Algorithm
 ![solved.ac](http://mazandi.herokuapp.com/api?handle=imcy0325&theme=dark")
