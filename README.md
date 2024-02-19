@@ -40,7 +40,7 @@ Bachelor Degree of Software engineering (03/2022 ~ Present) (Korea Aerospace Uni
 
 ## ADDITIONAL SKILLS
 <span>
-    <img src="https://img.shields.io/badge/C language-#A8B9CC?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ C-blueviolet?style=plastic&logo=C&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/Python-#3776AB?style=plastic&logo=Python&logoColor=white"/>
