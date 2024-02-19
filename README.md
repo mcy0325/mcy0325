@@ -53,7 +53,7 @@ Bachelor Degree of Software engineering (03/2022 ~ Present) (Korea Aerospace Uni
     <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ C++-#00599C?style=plastic&logo=cplusplus3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ C++-blueviolet?style=plastic&logo=Cplusplus3&logoColor=white"/>
 </span>
 
 ## Algorithm
