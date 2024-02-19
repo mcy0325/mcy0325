@@ -53,8 +53,6 @@ Bachelor Degree of Software engineering (03/2022 ~ Present) (Korea Aerospace Uni
     <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
 </span>
 
-## Publications
-
 ## Algorithm
 ![solved.ac](http://mazandi.herokuapp.com/api?handle=imcy0325&theme=dark")
 [![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0325)](https://solved.ac/imcy0325)
