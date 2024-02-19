@@ -40,25 +40,25 @@ Bachelor Degree of Software engineering (03/2022 ~ Present) (Korea Aerospace Uni
 
 ## ADDITIONAL SKILLS
 <span>
-    <img src="https://img.shields.io/badge/ C-#A8B9CC?style=plastic&logo=C&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ C-A8B9CC?style=plastic&logo=C&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/Python-#3776AB?style=plastic&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ Python-3776AB?style=plastic&logo=Python&logoColor=white"/>
 </span>   
 <span>
-    <img src="https://img.shields.io/badge/HTML-#E34F26?style=plastic&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ HTML-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/CSS-#1572B6?style=plastic&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ CSS-1572B6?style=plastic&logo=CSS3&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/C++-#00599C?style=plastic&logo=cplusplus&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/JavaScript-#F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/Kotlin-#7F52FF?style=plastic&logo=kotlin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white"/>
 </span>
 
 ## Algorithm
