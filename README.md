@@ -65,8 +65,8 @@ Bachelor Degree of Software engineering (03/2022 ~ Present) (Korea Aerospace Uni
 </span>
 
 ## Algorithm
-![solved.ac](http://mazandi.herokuapp.com/api?handle=imcy0325&theme=dark")
-[![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0325)](https://solved.ac/imcy0325)
+![solved.ac](http://mazandi.herokuapp.com/api?handle=mcy325&theme=dark")
+[![Solved 뱃지.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=imcy0325)](https://solved.ac/mcy325)
 
 </div>
 </div>
