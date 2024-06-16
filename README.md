@@ -27,6 +27,9 @@
     <img src="https://img.shields.io/badge/Instagram-ff69b4?style=plastic&logo=Instagram&logoColor=white"/>
   </a>
 </span>
+<span>
+    <a href = "https://jump-in-the-deep-coding.tistory.com/"> <img alt="Tistory" src ="https://img.shields.io/badge/Tistory-white.svg?&style=for-the-badge"/></a>
+</span>
 <br><br>
 
 ## OBJECTIVE
