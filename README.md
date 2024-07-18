@@ -1,13 +1,9 @@
-<div align="center">
-
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,10:FFA500,30:FF8C00,75:FF7F50,100:FF6347&height=100&section=header&text=&fontSize=0" width="100%"/>
 <br><br>
 
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFD700&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Chae+Yeong;Research+on" alt="Typing SVG" /></a>
-<br>
-<div align="center">  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFD700&size=35&pause=1000&vCenter=true&width=435&lines=Hello%2C+I'm+Chae+Yeong;Research+on" alt="Typing SVG" /></a>
 <br>
 
 <!-- Contact Buttons -->
@@ -53,11 +49,7 @@ Research on
     <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white"/>
 </span>
 
-</div>
-</div>
-
 <br><br>
-<div align="center">
 
 ## 📊 My GitHub Stats
 
@@ -73,5 +65,3 @@ Research on
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,10:FFA500,30:FF8C00,75:FF7F50,100:FF6347&height=40&section=footer&text=&fontSize=0" width="100%"/>
-
-</div>
