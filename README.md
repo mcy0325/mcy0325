@@ -15,7 +15,7 @@
 Research on
 
 ### WORK EXPERIENCE
-- **UNIST/Web Security Lab** (01/2024 ~ 02/2024)
+Web Security Lab ```(01/2024 ~ 02/2024)``` (UNIST)
 
 ### EDUCATION
 Bachelor Degree of Electrical and Electronic engineering ```(03/2022 ~ Present)``` (Korea Aerospace University)
