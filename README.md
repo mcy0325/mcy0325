@@ -21,32 +21,23 @@ Research on
 ### EDUCATION
 Bachelor Degree of Engineering of Software ```(03/2022 ~ Present)``` (Korea Aerospace University)
 
-### ADDITIONAL SKILLS
-<span>
-    <img src="https://img.shields.io/badge/ C language-blueviolet?style=plastic&logo=C&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
-</span>
+### TECHNICAL SKILLS
+- Programming Languages: Python, C, C++
+- Database Management: MySQL
+- Web Development: HTML, CSS, JavaScript, TypeScript, PHP, React
+- Cloud Computing: AWS
+- Mobile App Development: Android Studio, React Native
+- UI/UX Design: Figma
 
-<span>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=plastic&logo=HTML5&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ CSS-darkorange?style=plastic&logo=CSS3&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/C++-00599C?style=plastic&logo=cplusplus&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=plastic&logo=kotlin&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=plastic&logo=androidstudio&logoColor=white"/>
-</span>
+### AWARDS
+- 2023년 ICT 창업 메이커톤 대회 (우수상)
+- 2023년 제 2회 테트리스 게임톤 (최우수상)
+- 2023년 2학기 Adventure Design (1등)
+- 2024년 ICT 창업 메이커톤 대회 (최우수상)
+- 2024년 1학기 산학프로젝트 (2등)
+- 2024년 정보보호학술논문발표회 (ACCEPT)
+- 2024년 제 3회 테트리스 게임톤 (대상)
+- 2024년 창업 아이디어 경진대회 (우수상)
 
 </div>
 </div>
