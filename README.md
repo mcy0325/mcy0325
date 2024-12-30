@@ -16,10 +16,10 @@ Research on
 
 ### WORK EXPERIENCE
 - Web Security Lab ```(01/2024 ~ 02/2024)``` (UNIST)
-- Development Team ```(08/2024 ~ 12/2024)``` (BitLworks)
+- R&D Team ```(08/2024 ~ 12/2024)``` (BitLworks)
 
 ### EDUCATION
-Bachelor Degree of Electrical and Electronic engineering ```(03/2022 ~ Present)``` (Korea Aerospace University)
+Bachelor Degree of Engineering of Software ```(03/2022 ~ Present)``` (Korea Aerospace University)
 
 ### ADDITIONAL SKILLS
 <span>
