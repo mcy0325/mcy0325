@@ -49,14 +49,6 @@ Bachelor Degree of Engineering of Software ```(03/2022 ~ Present)``` (Korea Aero
 #### UI/UX Design  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
-### TECHNICAL SKILLS
-- Programming Languages: Python, C, C++
-- Database Management: MySQL
-- Web Development: HTML, CSS, JavaScript, TypeScript, PHP, React
-- Cloud Computing: AWS
-- Mobile App Development: Android Studio, React Native
-- UI/UX Design: Figma
-
 ### AWARDS
 - 2023년 ICT 창업 메이커톤 대회 (우수상)
 - 2023년 제 2회 테트리스 게임톤 (최우수상)
