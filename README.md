@@ -11,18 +11,18 @@
 
 <div align="left">  
 
-### OBJECTIVE
+### OBJECTIVE 🔍
 Research on
 
-### WORK EXPERIENCE
+### WORK EXPERIENCE 👩‍💻
 - Web Security Lab ```(01/2024 ~ 02/2024)``` (UNIST)
 - R&D Team ```(08/2024 ~ 12/2024)``` (BitLworks)
 - Web Security Lab ```(12/2024 ~ 02/2025)``` (UNIST)
 
-### EDUCATION
+### EDUCATION 📖
 Bachelor Degree of Engineering of Software ```(03/2022 ~ Present)``` (Korea Aerospace University)
 
-### TECHNICAL SKILLS
+### TECHNICAL SKILLS 🛠️
 
 #### Programming Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
@@ -50,7 +50,7 @@ Bachelor Degree of Engineering of Software ```(03/2022 ~ Present)``` (Korea Aero
 #### UI/UX Design  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
-### AWARDS
+### AWARDS 🏆
 - 2023년 ICT 창업 메이커톤 대회 (우수상)
 - 2023년 제 2회 테트리스 게임톤 (최우수상)
 - 2023년 2학기 Adventure Design (1등)
