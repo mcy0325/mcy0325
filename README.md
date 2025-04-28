@@ -72,9 +72,6 @@ Bachelor Degree of Engineering of Software ```(03/2022 ~ Present)``` (Korea Aero
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mcy0325&theme=react-dark&bg_color=20232a&hide_border=true&line=FFD700&color=FFD700" width="94%"/>
 
 <br><br>
-<!-- Hit counter -->
-<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmcy0325&count_bg=%23FFD700&title_bg=%2320232a&icon=github.svg&icon_color=%23FFFFFF&title=Hello!&edge_flat=false"/>
-<br><br><br><br>
 
 <!-- Footer banner -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,10:FFA500,30:FF8C00,75:FF7F50,100:FF6347&height=40&section=footer&text=&fontSize=0" width="100%"/>
