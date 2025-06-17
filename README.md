@@ -1,54 +1,61 @@
 <div align="center">
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,10:FFA500,30:FF8C00,75:FF7F50,100:FF6347&height=100&section=header&text=&fontSize=0" width="100%"/>
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbeb3c,100:fec8c8" />
 
 <!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=FFD700&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Chae+Yeong;Research+on+" alt="Typing SVG" /></a>
-<!-- My CV/resume -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=333333&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Chae+Young;Research+on" alt="Typing SVG" /></a>
 
+<!-- My CV/resume -->
 <div align="left">  
 
-### OBJECTIVE 🔍
-Research on
+### 🔍 OBJECTIVE 
+Research on 
 
-### WORK EXPERIENCE 👩‍💻
+### 👩‍💻 WORK EXPERIENCE 
 - Web Security Lab ```(01/2024 ~ 02/2024)``` (UNIST)
 - R&D Team ```(08/2024 ~ 12/2024)``` (BitLworks)
 - Web Security Lab ```(12/2024 ~ 02/2025)``` (UNIST)
 
-### EDUCATION 📖
+### 📖 EDUCATION 
 Bachelor Degree of Engineering of Software ```(03/2022 ~ Present)``` (Korea Aerospace University)
 
-### TECHNICAL SKILLS 🛠️
+### 🛠️ TECHNICAL SKILLS 
 
 #### Programming Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+
+#### Web Development  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)  
+
+#### Mobile App Development  
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)  
+
+#### Cloud & Backend Services  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)  
 
 #### Database Management  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
-#### Web Development  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-
-#### Cloud Computing  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-
-#### Mobile App Development  
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
-
 #### UI/UX Design  
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
 
-### AWARDS 🏆
+#### DevOps & Tools  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+
+### 🏆 AWARDS 
 - 2023년 ICT 창업 메이커톤 대회 (우수상)
 - 2023년 제 2회 테트리스 게임톤 (최우수상)
 - 2023년 2학기 Adventure Design (1등)
@@ -57,19 +64,22 @@ Bachelor Degree of Engineering of Software ```(03/2022 ~ Present)``` (Korea Aero
 - 2024년 정보보호학술논문발표회 (ACCEPT)
 - 2024년 제 3회 테트리스 게임톤 (대상)
 - 2024년 창업 아이디어 경진대회 (우수상)
+- 2025년 창업 아이디어 경진대회 (최우수상)
 
-</div>
-</div>
-
-<br><br>
-<div align="center">
-<!-- My profile -->
+### 〽️ STATS 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcy0325&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFD700&text_color=fff&title_color=FFD700&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
 <img src="https://github-readme-stats.vercel.app/api?username=mcy0325&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFD700&text_color=fff&title_color=FFD700&count_private=true" width="56%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mcy0325&theme=react-dark&bg_color=20232a&hide_border=true&line=FFD700&color=FFD700" width="94%"/>
+
+### Contact me 
+<div style="text-align: left;"> <a href=https://jump-in-the-deep-coding.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://jump-in-the-deep-coding.tistory.com/"> </a>
+         <a href=https://www.instagram.com/activityeong325> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/activityeong325"> </a>
+         <a href=https://m.blog.naver.com/chaemunyeong> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://m.blog.naver.com/chaemunyeong"> </a>
+          </div> 
+
+</div>
 
 <br><br>
 
 <!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FFD700,10:FFA500,30:FF8C00,75:FF7F50,100:FF6347&height=40&section=footer&text=&fontSize=0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbeb3c,100:fec8c8&height=40&section=footer&text=&fontSize=0" width="100%"/>
 </div>
