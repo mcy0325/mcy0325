@@ -71,12 +71,11 @@ Bachelor Degree of Engineering of Software ```(03/2022 ~ Present)``` (Korea Aero
 <img src="https://github-readme-stats.vercel.app/api?username=mcy0325&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFD700&text_color=fff&title_color=FFD700&count_private=true" width="56%" />
 
 ### Contact me 
-<div style="text-align: left;"> <a href=https://jump-in-the-deep-coding.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://jump-in-the-deep-coding.tistory.com/"> </a>
+<div style="text-align: left;"> 
+         <a href=https://jump-in-the-deep-coding.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://jump-in-the-deep-coding.tistory.com/"> </a>
          <a href=https://www.instagram.com/activityeong325> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/activityeong325"> </a>
          <a href=https://m.blog.naver.com/chaemunyeong> <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=Naver&logoColor=white&link=https://m.blog.naver.com/chaemunyeong"> </a>
-          </div> 
-
-</div>
+</div> 
 
 <br><br>
 
