@@ -16,6 +16,11 @@ Research on
 - R&D Team ```(08/2024 ~ 12/2024)``` (BitLworks)
 - Web Security Lab ```(12/2024 ~ 02/2025)``` (UNIST)
 
+### 📚 OTHER EXPERIENCE
+- White Hat School 2nd(Cloud/Development) ```(03/2024 ~ 09/2024)```
+- KAU LIKELION ```(03/2024 ~ 12/2025)```
+- BoB 14th(Security Product Development) ```(08/2024 ~ 12/2024)```
+
 ### 📖 EDUCATION 
 Bachelor Degree of Engineering of Software ```(03/2022 ~ Present)``` (Korea Aerospace University)
 
