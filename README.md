@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion&logoColor=white"/>
 </a> 
 
+### 🔍 OBJECTIVE 
+Research on 
+
 ### 👩‍💻 WORK EXPERIENCE 
 - Web Security Lab ```(01/2024 ~ 02/2024)``` (UNIST)
 - R&D Team ```(08/2024 ~ 12/2024)``` (BitLworks)
