@@ -8,6 +8,7 @@
 <!-- My CV/resume -->
 <div align="left">  
 
+### 💛 ABOUT ME
 <a href="https://rightful-birch-6d3.notion.site/Curriculum-Vitae-171f249f748880009f87f4ab6f53f52d">
   <img src="https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion&logoColor=white"/>
 </a> 
