@@ -8,8 +8,10 @@
 <!-- My CV/resume -->
 <div align="left">  
 
-### 🔍 OBJECTIVE 
-Research on 
+### 📄 Notion Portfolio
+<a href="https://your-notion-link-here">
+  <img src="https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion&logoColor=white"/>
+</a> 
 
 ### 👩‍💻 WORK EXPERIENCE 
 - Web Security Lab ```(01/2024 ~ 02/2024)``` (UNIST)
