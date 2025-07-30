@@ -1,9 +1,4 @@
-<div align="center">
-<!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbeb3c,100:fec8c8" width="100%" />
 
-<!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=333333&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Chae+Young;Research+on" alt="Typing SVG" /></a>
 
 <!-- My CV/resume -->
 <div align="left">  
@@ -82,6 +77,3 @@ Bachelor Degree of Engineering of Software ```(03/2022 ~ Present)``` (Korea Aero
 
 <br><br>
 
-<!-- Footer banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:fbeb3c,100:fec8c8&height=40&section=footer&text=&fontSize=0" width="100%"/>
-</div>
