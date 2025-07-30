@@ -1,5 +1,3 @@
-
-
 <!-- My CV/resume -->
 <div align="left">  
 
