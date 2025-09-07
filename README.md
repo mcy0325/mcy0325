@@ -8,9 +8,6 @@
 <!-- My CV/resume -->
 <div align="left">  
 
-### 🔍 OBJECTIVE 
-Research on 
-
 ### 👩‍💻 WORK EXPERIENCE 
 - Web Security Lab ```(01/2024 ~ 02/2024)``` (UNIST)
 - R&D Team ```(08/2024 ~ 12/2024)``` (BitLworks)
