@@ -8,6 +8,11 @@
 <!-- My CV/resume -->
 <div align="left">  
 
+### 💛 ABOUT ME
+<a href="https://rightful-birch-6d3.notion.site/Curriculum-Vitae-171f249f748880009f87f4ab6f53f52d">
+  <img src="https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
+
 ### 👩‍💻 WORK EXPERIENCE 
 - Web Security Lab ```(01/2024 ~ 02/2024)``` (UNIST)
 - R&D Team ```(08/2024 ~ 12/2024)``` (BitLworks)
