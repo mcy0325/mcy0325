@@ -20,7 +20,8 @@
 
 ### 📚 OTHER EXPERIENCE
 - White Hat School 2nd(Cloud/Development) ```(03/2024 ~ 09/2024)```
-- KAU LIKELION ```(03/2024 ~ 12/2025)```
+- KAU LIKELION 12th ```(03/2024 ~ 12/2024)```
+- KAU LIKELION 13th ```(03/2025 ~ 12/2025)```
 - BoB 14th(Security Product Development) ```(07/2025 ~ 12/2025)```
 
 ### 📖 EDUCATION 
