@@ -20,8 +20,8 @@
 
 ### 📚 OTHER EXPERIENCE
 - White Hat School 2nd(Cloud/Development) ```(03/2024 ~ 09/2024)```
-- KAU LIKELION ```(03/2024 ~ Present)```
-- BoB 14th(Security Product Development) ```(07/2025 ~ Present)```
+- KAU LIKELION ```(03/2024 ~ 12/2025)```
+- BoB 14th(Security Product Development) ```(07/2025 ~ 12/2025)```
 
 ### 📖 EDUCATION 
 Bachelor Degree of Engineering of Software ```(03/2022 ~ Present)``` (Korea Aerospace University)
