@@ -25,7 +25,7 @@
 - BoB 14th(Security Product Development) ```(07/2025 ~ 12/2025)```
 
 ### 📖 EDUCATION 
-Bachelor Degree of Engineering of Software ```(03/2022 ~ Present)``` (Korea Aerospace University)
+- Bachelor Degree of Engineering of Software ```(03/2022 ~ Present)``` (Korea Aerospace University)
 
 ### 🛠️ TECHNICAL SKILLS 
 
