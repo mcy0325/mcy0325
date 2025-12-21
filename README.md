@@ -57,11 +57,18 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
 
 #### UI/UX Design  
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
+
+#### Desktop / GUI Development
+![Qt](https://img.shields.io/badge/Qt%206-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![C++](https://img.shields.io/badge/C++%20GUI-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%20Desktop-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GDB](https://img.shields.io/badge/GDB%20Integration-000000?style=for-the-badge&logo=gnu&logoColor=white)
 
 #### DevOps & Tools  
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 
 ### 🏆 AWARDS 
 - 2023년 ICT 창업 메이커톤 대회 (우수상)
