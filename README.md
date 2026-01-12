@@ -70,13 +70,15 @@
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)  
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 
+### 📃 PAPERS
+- 북한의 사이버 공격 최신 동향 분석 및 시사점
+
 ### 🏆 AWARDS 
 - 2023년 ICT 창업 메이커톤 대회 (우수상)
 - 2023년 제 2회 테트리스 게임톤 (최우수상)
 - 2023년 2학기 Adventure Design (1등)
 - 2024년 ICT 창업 메이커톤 대회 (최우수상)
 - 2024년 1학기 산학프로젝트 (2등)
-- 2024년 정보보호학술논문발표회 (ACCEPT)
 - 2024년 제 3회 테트리스 게임톤 (대상)
 - 2024년 창업 아이디어 경진대회 (우수상)
 - 2025년 창업 아이디어 경진대회 (최우수상)
