@@ -26,6 +26,7 @@
 
 ### 📖 EDUCATION 
 - Bachelor Degree of Engineering of Software ```(03/2022 ~ 02/2026)``` (Korea Aerospace University)
+- Master Degree of Computer Science and Engineering ```(03/2026 ~ Present)``` (Ulsan National Institute of Science and Technology)
 
 ### 🛠️ TECHNICAL SKILLS 
 
