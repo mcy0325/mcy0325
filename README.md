@@ -80,5 +80,3 @@
 
 ### 〽️ STATS 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mcy0325&theme=github-dark-blue&hide_border=true&ring=f0c040&fire=f9a8c9&currStreakLabel=f0c040)](https://github.com/mcy0325)
-
-<br><br>
