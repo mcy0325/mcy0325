@@ -2,7 +2,7 @@
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbeb3c,100:fec8c8" width="100%" />
 
-![widgetbox](https://github-widgetbox.vercel.app/api/profile?username=mcy0325&data=followers,repositories,stars,commits&theme=carbon)
+![widgetbox](https://github-widgetbox.vercel.app/api/profile?username=mcy0325&data=followers,repositories,stars,commits&theme=viridescent)
 
 <!-- My CV/resume -->
 <div align="left">  
