@@ -2,9 +2,6 @@
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbeb3c,100:fec8c8" width="100%" />
 
-<!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=333333&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Chae+Young;Research+on" alt="Typing SVG" /></a>
-
 <!-- My CV/resume -->
 <div align="left">  
 
@@ -84,10 +81,6 @@
 - 2024년 제 3회 테트리스 게임톤 (대상)
 - 2024년 창업 아이디어 경진대회 (우수상)
 - 2025년 창업 아이디어 경진대회 (최우수상)
-
-### 〽️ STATS 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcy0325&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFD700&text_color=fff&title_color=FFD700&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
-<img src="https://github-readme-stats.vercel.app/api?username=mcy0325&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFD700&text_color=fff&title_color=FFD700&count_private=true" width="56%" />
 
 <br><br>
 
