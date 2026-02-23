@@ -2,10 +2,6 @@
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fbeb3c,100:fec8c8" width="100%" />
 
-<!-- Title Typing Effect -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=333333&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Chae+Young;Research+on" alt="Typing SVG" /></a>
-![widgetbox](https://github-widgetbox.vercel.app/api/profile?username=mcy0325&data=followers,repositories,stars,commits&theme=nautilus)
-
 <!-- My CV/resume -->
 <div align="left">  
 
