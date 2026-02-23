@@ -85,4 +85,14 @@
 ### 〽️ STATS 
 ![streak](https://streak-stats.demolab.com/?user=mcy0325&theme=github-dark-blue&hide_border=true)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=mcy0325&theme=darkhub&no-bg=true&no-frame=true&row=1&column=6)](https://github.com/mcy0325)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mcy0325&theme=github-dark-blue&hide_border=true&ring=f0c040&fire=f9a8c9&currStreakLabel=f0c040)](https://github.com/mcy0325)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mcy0325&bg_color=0d1117&color=e6edf3&line=f0c040&point=f9a8c9&area=true&hide_border=true)](https://github.com/mcy0325)
+
+[![Metrics](https://metrics.lecoq.io/mcy0325?template=classic&base.header=0&languages=1&stars=1&config.timezone=Asia%2FSeoul)](https://github.com/mcy0325)
+
+</div>
+
 <br><br>
