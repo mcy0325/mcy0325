@@ -89,4 +89,12 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcy0325&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFD700&text_color=fff&title_color=FFD700&count_private=true&exclude_repo=Face-Transfer-Application" width="38%" />
 <img src="https://github-readme-stats.vercel.app/api?username=mcy0325&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=FFD700&text_color=fff&title_color=FFD700&count_private=true" width="56%" />
 
+![typing](https://readme-typing-svg.herokuapp.com/?lines=Security+Product+Developer;Web+Security+Researcher&font=Fira+Code&center=true&color=f0c040)
+
+![widgetbox](https://github-widgetbox.vercel.app/api/profile?username=mcy0325&data=followers,repositories,stars,commits&theme=nautilus)
+
+![streak](https://streak-stats.demolab.com/?user=mcy0325&theme=github-dark-blue&hide_border=true)
+
+![activity](https://github-readme-activity-graph.vercel.app/graph?username=mcy0325&theme=github-compact&hide_border=true)
+
 <br><br>
