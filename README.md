@@ -84,6 +84,5 @@
 
 ### 〽️ STATS 
 ![streak](https://streak-stats.demolab.com/?user=mcy0325&theme=github-dark-blue&hide_border=true)
-![activity](https://github-readme-activity-graph.vercel.app/graph?username=mcy0325&theme=github-compact&hide_border=true)
 
 <br><br>
