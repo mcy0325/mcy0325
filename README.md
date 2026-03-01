@@ -1,25 +1,18 @@
 <!-- My CV/resume -->
 <div align="left">  
 
-### 💛 ABOUT ME
-<a href="https://rightful-birch-6d3.notion.site/Curriculum-Vitae-171f249f748880009f87f4ab6f53f52d">
-  <img src="https://img.shields.io/badge/Notion-Portfolio-black?style=for-the-badge&logo=notion&logoColor=white"/>
-</a>
-
-### 👩‍💻 WORK EXPERIENCE 
-- Web Security Lab ```(01/2024 ~ 02/2024)``` (UNIST)
-- R&D Team ```(08/2024 ~ 12/2024)``` (BitLworks)
-- Web Security Lab ```(12/2024 ~ 02/2025)``` (UNIST)
-
-### 📚 OTHER EXPERIENCE
-- White Hat School 2nd(Cloud/Development) ```(03/2024 ~ 09/2024)```
-- KAU LIKELION 12th ```(03/2024 ~ 12/2024)```
-- KAU LIKELION 13th ```(03/2025 ~ 12/2025)```
-- BoB 14th(Security Product Development) ```(07/2025 ~ 02/2026)```
+## Chaeyoung Moon
 
 ### 📖 EDUCATION 
-- Bachelor Degree of Engineering of Software ```(03/2022 ~ 02/2026)``` (Korea Aerospace University)
 - Master Degree of Computer Science and Engineering ```(03/2026 ~ Present)``` (UNIST)
+- Bachelor Degree of Engineering of Software ```(03/2022 ~ 02/2026)``` (Korea Aerospace University)
+
+### 👩‍💻 EXPERIENCE 
+- BoB 14th(Security Product Development) ```(07/2025 ~ 02/2026)```
+- KAU LIKELION 13th ```(03/2025 ~ 12/2025)```
+- White Hat School 2nd(Cloud/Development) ```(03/2024 ~ 09/2024)```
+- KAU LIKELION 12th ```(03/2024 ~ 12/2024)```
+- R&D Team ```(08/2024 ~ 12/2024)``` (BitLworks)
 
 ### 🛠️ TECHNICAL SKILLS 
 
@@ -65,18 +58,18 @@
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 
 ### 📃 PAPERS
-- 북한의 사이버 공격 최신 동향 분석 및 시사점, 2024년 정보보호학술논문발표회(KIISC)
-- x86 64 시스템 스냅샷 기반 가상 하드웨어 디버거 설계 및 구현, 2025년 한국소프트웨어종합학술대회(KSC)
+- 북한의 사이버 공격 최신 동향 분석 및 시사점, **2024년 정보보호학술논문발표회(KIISC)**
+- x86 64 시스템 스냅샷 기반 가상 하드웨어 디버거 설계 및 구현, **2025년 한국소프트웨어종합학술대회(KSC)**
 
 ### 🏆 AWARDS 
-- 2023년 ICT 창업 메이커톤 대회 (우수상)
-- 2023년 제 2회 테트리스 게임톤 (최우수상)
-- 2023년 2학기 Adventure Design (1등)
-- 2024년 ICT 창업 메이커톤 대회 (최우수상)
-- 2024년 1학기 산학프로젝트 (2등)
+- 2025년 창업 아이디어 경진대회 (최우수상)
 - 2024년 제 3회 테트리스 게임톤 (대상)
 - 2024년 창업 아이디어 경진대회 (우수상)
-- 2025년 창업 아이디어 경진대회 (최우수상)
+- 2024년 1학기 산학프로젝트 (2등)
+- 2024년 ICT 창업 메이커톤 대회 (최우수상)
+- 2023년 제 2회 테트리스 게임톤 (최우수상)
+- 2023년 2학기 Adventure Design (1등)
+- 2023년 ICT 창업 메이커톤 대회 (우수상)
 
 ### 〽️ STATS 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=mcy0325&theme=github-dark-blue&hide_border=true&ring=f0c040&fire=f9a8c9&currStreakLabel=f0c040)](https://github.com/mcy0325)
