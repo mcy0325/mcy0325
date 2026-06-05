@@ -13,6 +13,3 @@
 - White Hat School 2nd(Cloud/Development) ```(03/2024 ~ 09/2024)```
 - KAU LIKELION 12th ```(03/2024 ~ 12/2024)```
 - R&D Team ```(08/2024 ~ 12/2024)``` (BitLworks)
-
-### 〽️ STATS 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=mcy0325&theme=github-dark-blue&hide_border=true&ring=f0c040&fire=f9a8c9&currStreakLabel=f0c040)](https://github.com/mcy0325)
